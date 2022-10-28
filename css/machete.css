@@ -1,4 +1,29 @@
-h1 { color red;}
-.titulo-h1 { color: blue;}
+h1 {
+    color: blue;
+}
 
-#id="Modificar" { ::backdrop,:read-write;}
+.mifondo{
+    background-image: 
+    url(https://img.freepik.com/foto-gratis/textura-acuarela-rosa_1083-158.jpg); 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+.micolor{
+    color: black;
+
+.mifuente{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.caja{
+    border-top: 2px solid;
+    border-right: 4px solid;
+    border-bottom: 4px solid;
+    border left: 2px solid;
+    
+}
+
+#miid{
+    color: blue;
+}
